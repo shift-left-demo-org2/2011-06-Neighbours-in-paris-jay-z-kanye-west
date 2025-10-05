@@ -1,4 +1,4 @@
-# Ni**as in Paris
+# Neighbours in Paris
 
 **Artist:** Jay Z Kanye West  
 **Year:** 2011  
@@ -6,11 +6,11 @@
 
 ## About This Repository
 
-This repository is named after "Ni**as in Paris" by Jay Z Kanye West, which was one of the top 10 songs on the Billboard Hot 100 chart in 2011.
+This repository is named after "Neighbours in Paris" by Jay Z Kanye West, which was one of the top 10 songs on the Billboard Hot 100 chart in 2011.
 
 ## Song Information
 
-- **Title:** Ni**as in Paris
+- **Title:** Neighbours in Paris
 - **Artist:** Jay Z Kanye West
 - **Year:** 2011
 - **Chart:** Billboard Hot 100
